@@ -18,3 +18,4 @@ public class ConversionOfUSD extends Conversion{
         convertToTRY();
     }
 }
+

@@ -18,3 +18,4 @@ public class ConversionOfRUB extends Conversion{
         convertToTRY();
     }
 }
+

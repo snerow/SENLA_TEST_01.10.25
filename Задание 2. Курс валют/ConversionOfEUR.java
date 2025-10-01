@@ -18,3 +18,4 @@ public class ConversionOfEUR extends Conversion{
         convertToTRY();
     }
 }
+
