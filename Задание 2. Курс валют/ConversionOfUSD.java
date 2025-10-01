@@ -1,7 +1,7 @@
 public class ConversionOfUSD extends Conversion{
     public ConversionOfUSD(double convertMoney) {
         super(convertMoney, "Долларов США");
-        setRUB(0.01026272578);  // Рубли
+        setRUB(0.01204819277);  // Рубли
         setEUR(1.08695652174);  // Евро
         setCNY(0.14025245441);  // Китайский юань
         setKZT(0.00204365241);  // Казахстанских тенге
